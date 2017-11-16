@@ -9,6 +9,8 @@ import java.util.StringTokenizer;
 
 public class Nr_1 {
 
+	//HUY
+	
 	FastScanner fs = new FastScanner("input1.txt");
 
 	HashSet<String> numbers;
